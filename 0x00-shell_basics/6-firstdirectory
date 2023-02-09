@@ -1,5 +1,4 @@
-#!usr/bin/bash
-cd /tmp
-newfile= $(mkdir my_first_directory)
+#!/bin/bash
+newfile= $(mkdir /tmp/my_first_directory)
 echo $newfile
 
