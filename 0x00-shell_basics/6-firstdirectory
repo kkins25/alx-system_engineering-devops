@@ -1,4 +1,5 @@
 #!usr/bin/bash
 cd /tmp
-newfile= $(mkdir 6-firstdirectory)
+newfile= $(mkdir my_first_directory)
+echo $newfile
 

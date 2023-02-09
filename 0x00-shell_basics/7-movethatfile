@@ -1,0 +1,5 @@
+#!usr/bin/bash
+cd /tmp
+movefile= $(mv /tmp/betty /tmp/y_first_directory)
+echo $movefile
+
