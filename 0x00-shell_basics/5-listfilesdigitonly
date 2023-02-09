@@ -1,0 +1,4 @@
+#!usr/bin/bash
+
+list=$(ls -n)
+echo $list
