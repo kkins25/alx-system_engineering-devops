@@ -1,4 +1,2 @@
 #!bin/bash
-movefile= $(mv /tmp/betty /tmp/my_first_directory)
-echo $movefile
-
+mv /tmp/betty /tmp/my_first_directory

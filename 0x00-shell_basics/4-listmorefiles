@@ -1,4 +1,2 @@
 #!usr/bin/bash
-
-list=$(ls -al)
-echo $list
+ls -al
